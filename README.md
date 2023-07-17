@@ -1,7 +1,7 @@
 # Gridy Magazine
 This repository is a short single edition magazine that I made in order to practice using CSS grids.
 
-It is live on GitHub pages. Check it out here: 
+It is live on GitHub pages. Check it out here: https://604adrian.github.io/gridy-magazine/
 
 # Credits
 This is a remix of a project/lesson over at freeCodeCamp. The template is roughly the same, but the images and texts were modified. The images I used are from WikiMedia Commons, so they require attribution (below).
