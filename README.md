@@ -1,4 +1,4 @@
-# Gridy Magazine
+# Gridy Magazine 📈
 This repository is a short single edition magazine that I made in order to practice using CSS grids.
 
 It is live on GitHub pages. Check it out here: https://604adrian.github.io/gridy-magazine/
